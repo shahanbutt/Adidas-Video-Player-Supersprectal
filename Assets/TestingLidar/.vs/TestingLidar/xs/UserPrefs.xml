@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CFCA14BB-0C47-C4D8-579E-7CE9920F4B42}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VideoController.cs">
+    <Files>
+      <File FileName="Assets/VideoController.cs" Line="33" Column="54" />
+      <File FileName="Assets/PointerEnterExit.cs" Line="11" Column="37" />
+      <File FileName="Assets/PointerUpDown.cs" Line="11" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestingLidar" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="VideoController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d1b2d45e-1b68-4d75-8644-95daa231d38f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
